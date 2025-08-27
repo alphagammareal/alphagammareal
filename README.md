@@ -26,9 +26,6 @@
 ## ⚙️ Tech Stack & Tools  
 <p>
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python">  
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">  
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5">  
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3">  
   <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git">  
   <img src="https://img.shields.io/badge/Database-MySQL-lightblue?style=for-the-badge&logo=mysql">  
 </p>
