@@ -14,7 +14,9 @@
 
 <!-- ABOUT ME -->
 ## 🌟 About Me  
-- 🎓 ALX **Professional Foundation Skills** graduate  
+- 🎓 KNUST **Media and communication Studies** graduate
+- 🎓 ALX **Professional Foundation Skills** graduate
+- 💻 **Tech tutorials** Youtuber
 - 💻 Aspiring **Backend Developer**, passionate about building APIs, database-driven apps, and research-based solutions  
 - 🌍 Enthusiastic about **AI, digital literacy, and language learning (currently learning Chinese)**  
 - ✨ Inspired by **tech that empowers communities and bridges communication gaps**  
