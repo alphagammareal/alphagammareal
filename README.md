@@ -50,8 +50,8 @@ Here are some projects I’d like to highlight:
 <!-- STATS -->
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphasakyi&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphasakyi&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphagammareal&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphagammareal&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
