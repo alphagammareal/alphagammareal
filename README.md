@@ -38,10 +38,10 @@
 ## 🚀 Projects  
 Here are some projects I’d like to highlight:  
 
-- 🔗 **Backend API Development** – RESTful API for managing users & content  
-- 📊 **Research Tools** – Scripts for automating data collection & analysis  
-- 🌱 **Community Empowerment Apps** – Apps that solve local problems (education, communication, small business)  
-- 🤝 **Open Source Contributions** – Collaborative projects to strengthen coding skills  
+<!-- - 🔗 **Backend API Development** – RESTful API for managing users & content --> 
+<!-- - 📊 **Research Tools** – Scripts for automating data collection & analysis -->  
+<!-- - 🌱 **Community Empowerment Apps** – Apps that solve local problems (education, communication, small business)  --> 
+<!-- - 🤝 **Open Source Contributions** – Collaborative projects to strengthen coding skills --> 
 
 *(More projects coming soon — stay tuned!)*  
 
