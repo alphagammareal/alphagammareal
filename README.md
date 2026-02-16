@@ -2,7 +2,7 @@
 
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Alpha Sakyi</h1>
-<h3 align="center">Aspiring Backend Developer | Communication & Research Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Backend Developer | Communication, Marketing & Research Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <a href="mailto:alphasakyi2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
@@ -15,7 +15,6 @@
 <!-- ABOUT ME -->
 ## 🌟 About Me  
 - 🎓 KNUST **Media and communication Studies** graduate
-- 🎓 ALX **Professional Foundation Skills** graduate
 - 💻 **Tech tutorials** Youtuber
 - 💻 Aspiring **Backend Developer**, passionate about building APIs, database-driven apps, and research-based solutions  
 - 🌍 Enthusiastic about **AI, digital literacy, and language learning (currently learning Chinese)**  
@@ -38,7 +37,8 @@
 ## 🚀 Projects  
 Here are some projects I’d like to highlight:  
 
-<!-- - 🔗 **Backend API Development** – RESTful API for managing users & content --> 
+<!-- - 🔗 **MySikaBudget APP** – a web app for managing and tracking finances -->
+https://mysika-budget.onrender.com/
 <!-- - 📊 **Research Tools** – Scripts for automating data collection & analysis -->  
 <!-- - 🌱 **Community Empowerment Apps** – Apps that solve local problems (education, communication, small business)  --> 
 <!-- - 🤝 **Open Source Contributions** – Collaborative projects to strengthen coding skills --> 
