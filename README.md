@@ -47,6 +47,12 @@ A web application designed to help users manage and track their finances efficie
 🌐 **Live Demo:**  
 👉 https://mysika-budget.onrender.com/
 
+### 🔗 GhanaStocks TRacking App  
+
+A web application designed to help users manage and track their Ghana Stocks Investments and invest wisely.
+
+🌐 **Live Demo:**  
+👉 https://ghanastocks.xyz/
 ---
 
 ## 📈 GitHub Stats  
